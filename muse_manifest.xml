@@ -1,0 +1,169 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.pacdnatx.com" resolutions="1x,2x" timestamp="1663118956707">
+  <folder name="css">
+    <file name="site_global.css" crc="4013583993"/>
+    <file name="index.css" crc="3945403054" ref="index"/>
+    <file name="nomq_index.css" crc="3943011470" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pexels-leonardo-rossatti-2646099 long.jpg" crc="196860030" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="310217354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_2x.png" crc="215629616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u927.png" crc="4245713896" ref="index"/>
+    <file name="u927_2x.png" crc="420844232" ref="index"/>
+    <file name="u927-r.png" crc="4245713896" ref="index"/>
+    <file name="u927-r_2x.png" crc="420844232" ref="index"/>
+    <file name="u330-5.png" crc="3933027725" ref="index"/>
+    <file name="u330-5_2x.png" crc="3792602391" ref="index"/>
+    <file name="u6017-7.png" crc="4185051105" ref="index"/>
+    <file name="u6017-7_2x.png" crc="3893045053" ref="index"/>
+    <file name="antibody.png" crc="66264755" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="antibody_2x.png" crc="112047856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lung.png" crc="3846109479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lung_2x.png" crc="3924302667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="activity.png" crc="136475970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="activity_2x.png" crc="4099180654" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="side effect.png" crc="3777628551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="side effect_2x.png" crc="4214721019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6562-4.png" crc="433544755" ref="index"/>
+    <file name="u6562-4_2x.png" crc="492276534" ref="index"/>
+    <file name="u6567-4.png" crc="3833016407" ref="index"/>
+    <file name="u6567-4_2x.png" crc="117272307" ref="index"/>
+    <file name="u6576-4.png" crc="3949446344" ref="index"/>
+    <file name="u6576-4_2x.png" crc="3804148929" ref="index"/>
+    <file name="u6585-4.png" crc="33239802" ref="index"/>
+    <file name="u6585-4_2x.png" crc="276076461" ref="index"/>
+    <file name="deathtostock_wired6 copia.jpg" crc="3786149677" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u832-4.png" crc="78034669" ref="index"/>
+    <file name="u832-4_2x.png" crc="3778049127" ref="index"/>
+    <file name="u643-4.png" crc="266250976" ref="index"/>
+    <file name="u643-4_2x.png" crc="3778906197" ref="index"/>
+    <file name="pipeline small.jpg" crc="4054298562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pipeline small_2x.jpg" crc="4264817118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="65170122" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook_2x.png" crc="65170122" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="157966522" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter_2x.png" crc="157966522" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u865-4.png" crc="424794022" ref="index"/>
+    <file name="u865-4_2x.png" crc="3840794949" ref="index"/>
+    <file name="pexels-leonardo-rossatti-2646099 long-u349-fr.jpg" crc="4227295247" ref="index"/>
+    <file name="logo57x33.png" crc="138916399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo57x33_2x.png" crc="4028388485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9272.png" crc="231455710" ref="index"/>
+    <file name="u927_2x2.png" crc="338578120" ref="index"/>
+    <file name="u927-r2.png" crc="231455710" ref="index"/>
+    <file name="u927-r_2x2.png" crc="338578120" ref="index"/>
+    <file name="u330-52.png" crc="3828841640" ref="index"/>
+    <file name="u330-5_2x2.png" crc="4225305136" ref="index"/>
+    <file name="u6017-72.png" crc="81126896" ref="index"/>
+    <file name="u6017-7_2x2.png" crc="445056485" ref="index"/>
+    <file name="antibody76x76.png" crc="3832527853" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="antibody76x76_2x.png" crc="66253787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lung76x76.png" crc="4153042357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lung76x76_2x.png" crc="4035504763" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="activity76x76.png" crc="387986030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="activity76x76_2x.png" crc="380923617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="side effect76x76.png" crc="4094677275" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="side effect76x76_2x.png" crc="496771946" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6562-42.png" crc="3996418063" ref="index"/>
+    <file name="u6562-4_2x2.png" crc="3919174237" ref="index"/>
+    <file name="u6567-42.png" crc="4153210552" ref="index"/>
+    <file name="u6567-4_2x2.png" crc="4092084207" ref="index"/>
+    <file name="u6576-42.png" crc="3824484512" ref="index"/>
+    <file name="u6576-4_2x2.png" crc="250975890" ref="index"/>
+    <file name="u6585-42.png" crc="66886233" ref="index"/>
+    <file name="u6585-4_2x2.png" crc="3789883296" ref="index"/>
+    <file name="deathtostock_wired6 copia-u710-fr.jpg" crc="4177586716" ref="index"/>
+    <file name="u832-42.png" crc="3858204558" ref="index"/>
+    <file name="u832-4_2x2.png" crc="3909319224" ref="index"/>
+    <file name="u643-42.png" crc="266250976" ref="index"/>
+    <file name="u643-4_2x2.png" crc="3778906197" ref="index"/>
+    <file name="pipeline small528x348.jpg" crc="4093501963" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pipeline small528x348_2x.jpg" crc="296016853" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook48x48.png" crc="3905519666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook48x48_2x.png" crc="65170122" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter48x48.png" crc="3866700311" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter48x48_2x.png" crc="157966522" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u865-42.png" crc="424794022" ref="index"/>
+    <file name="u865-4_2x2.png" crc="3840794949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4092417750" seo="true" mt="1663118919932" redirect="true"/>
+</manifest>
