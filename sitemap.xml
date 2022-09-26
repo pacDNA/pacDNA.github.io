@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.pacdnatx.com/index.html</loc>
-    <lastmod>2022-09-13</lastmod>
+    <lastmod>2022-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -100,6 +100,18 @@
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/twitter48x48_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/linkedin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/linkedin_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/linkedin-crop-u7582.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/linkedin-crop-u7582_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.pacdnatx.com" resolutions="1x,2x" timestamp="1663118956707">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.pacdnatx.com" resolutions="1x,2x" timestamp="1664209065198">
   <folder name="css">
     <file name="site_global.css" crc="4013583993"/>
-    <file name="index.css" crc="3945403054" ref="index"/>
-    <file name="nomq_index.css" crc="3943011470" ref="index"/>
+    <file name="index.css" crc="3799193721" ref="index"/>
+    <file name="nomq_index.css" crc="394941610" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -164,6 +164,18 @@
     </file>
     <file name="u865-42.png" crc="424794022" ref="index"/>
     <file name="u865-4_2x2.png" crc="3840794949" ref="index"/>
+    <file name="linkedin.png" crc="3788307392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin_2x.png" crc="3788307392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin-crop-u7582.png" crc="13393078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin-crop-u7582_2x.png" crc="269023034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4092417750" seo="true" mt="1663118919932" redirect="true"/>
+  <file name="index.html" crc="3897050587" seo="true" mt="1664208553970" redirect="true"/>
 </manifest>
