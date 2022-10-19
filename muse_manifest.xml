@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.pacdnatx.com" resolutions="1x,2x" timestamp="1666145170942">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.pacdnatx.com" resolutions="1x,2x" timestamp="1666145459989">
   <folder name="css">
     <file name="site_global.css" crc="4013583993"/>
-    <file name="index.css" crc="4158196259" ref="index"/>
-    <file name="nomq_index.css" crc="3956601288" ref="index"/>
+    <file name="index.css" crc="4236329360" ref="index"/>
+    <file name="nomq_index.css" crc="314212714" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -102,22 +102,22 @@
     <file name="u330-5_2x2.png" crc="3842027094" ref="index"/>
     <file name="u6017-72.png" crc="401942684" ref="index"/>
     <file name="u6017-7_2x2.png" crc="4284548674" ref="index"/>
-    <file name="u6562-42.png" crc="244842550" ref="index"/>
-    <file name="u6562-4_2x2.png" crc="3899399882" ref="index"/>
-    <file name="u6567-42.png" crc="3833016407" ref="index"/>
-    <file name="u6567-4_2x2.png" crc="117272307" ref="index"/>
-    <file name="u6576-42.png" crc="4173934684" ref="index"/>
-    <file name="u6576-4_2x2.png" crc="62197813" ref="index"/>
-    <file name="u6585-42.png" crc="3806420073" ref="index"/>
-    <file name="u6585-4_2x2.png" crc="78908011" ref="index"/>
+    <file name="u6562-42.png" crc="381921624" ref="index"/>
+    <file name="u6562-4_2x2.png" crc="4144917524" ref="index"/>
+    <file name="u6567-42.png" crc="523703861" ref="index"/>
+    <file name="u6567-4_2x2.png" crc="312861116" ref="index"/>
+    <file name="u6576-42.png" crc="3864558622" ref="index"/>
+    <file name="u6576-4_2x2.png" crc="4052150436" ref="index"/>
+    <file name="u6585-42.png" crc="3849944135" ref="index"/>
+    <file name="u6585-4_2x2.png" crc="4193288374" ref="index"/>
     <file name="u832-42.png" crc="234253933" ref="index"/>
     <file name="u832-4_2x2.png" crc="410589700" ref="index"/>
     <file name="u643-42.png" crc="266250976" ref="index"/>
     <file name="u643-4_2x2.png" crc="3778906197" ref="index"/>
-    <file name="linkedin-crop-u7582.png" crc="4281020464" seo="true" ref="index">
+    <file name="linkedin-crop-u7582.png" crc="68279759" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="linkedin-crop-u7582_2x.png" crc="4088828311" seo="true" ref="index">
+    <file name="linkedin-crop-u7582_2x.png" crc="3923289397" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u865-6.png" crc="3980535984" ref="index"/>
@@ -181,48 +181,48 @@
     <file name="linkedin_2x.png" crc="3788307392" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="antibody104x104.png" crc="3908405682" seo="true" ref="index">
+    <file name="antibody92x92.png" crc="184155740" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="antibody104x104_2x.png" crc="4057379894" seo="true" ref="index">
+    <file name="antibody92x92_2x.png" crc="4138266590" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="lung104x104.png" crc="3787896772" seo="true" ref="index">
+    <file name="lung92x92.png" crc="4183546358" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="lung104x104_2x.png" crc="3950221686" seo="true" ref="index">
+    <file name="lung92x92_2x.png" crc="3974467037" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="activity104x104.png" crc="3988337898" seo="true" ref="index">
+    <file name="activity92x92.png" crc="118917964" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="activity104x104_2x.png" crc="240540535" seo="true" ref="index">
+    <file name="activity92x92_2x.png" crc="3889469588" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="side effect104x104.png" crc="353419987" seo="true" ref="index">
+    <file name="side effect92x92.png" crc="3918226540" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="side effect104x104_2x.png" crc="129455969" seo="true" ref="index">
+    <file name="side effect92x92_2x.png" crc="3763936240" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pipeline small718x473.jpg" crc="4189609271" seo="true" ref="index">
+    <file name="pipeline small637x420.jpg" crc="249170288" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pipeline small718x473_2x.jpg" crc="378660155" seo="true" ref="index">
+    <file name="pipeline small637x420_2x.jpg" crc="3851900213" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="facebook65x65.png" crc="4143164409" seo="true" ref="index">
+    <file name="facebook58x58.png" crc="254609836" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="facebook65x65_2x.png" crc="65170122" seo="true" ref="index">
+    <file name="facebook58x58_2x.png" crc="65170122" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="twitter65x65.png" crc="3868412269" seo="true" ref="index">
+    <file name="twitter58x58.png" crc="3999486811" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="twitter65x65_2x.png" crc="157966522" seo="true" ref="index">
+    <file name="twitter58x58_2x.png" crc="157966522" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4182386696" seo="true" mt="1666145137209" redirect="true"/>
+  <file name="index.html" crc="416205760" seo="true" mt="1666145416123" redirect="true"/>
 </manifest>
