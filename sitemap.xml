@@ -78,36 +78,6 @@
       <image:loc>http://www.pacdnatx.com/images/sttr.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.pacdnatx.com/images/linkedin77x77.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/linkedin77x77_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/antibody122x122.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/antibody122x122_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/lung122x122.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/lung122x122_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/activity122x122.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/activity122x122_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/side%20effect122x122.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/side%20effect122x122_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.pacdnatx.com/images/biomarin_logo_200_200_c1117x117.jpg</image:loc>
     </image:image>
     <image:image>
@@ -120,22 +90,52 @@
       <image:loc>http://www.pacdnatx.com/images/sttr160x58.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.pacdnatx.com/images/pipeline%20small844x556.jpg</image:loc>
+      <image:loc>http://www.pacdnatx.com/images/linkedin.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.pacdnatx.com/images/pipeline%20small844x556_2x.jpg</image:loc>
+      <image:loc>http://www.pacdnatx.com/images/linkedin_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.pacdnatx.com/images/facebook76x76.png</image:loc>
+      <image:loc>http://www.pacdnatx.com/images/antibody114x114.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.pacdnatx.com/images/facebook76x76_2x.png</image:loc>
+      <image:loc>http://www.pacdnatx.com/images/antibody114x114_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.pacdnatx.com/images/twitter76x76.png</image:loc>
+      <image:loc>http://www.pacdnatx.com/images/lung114x114.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.pacdnatx.com/images/twitter76x76_2x.png</image:loc>
+      <image:loc>http://www.pacdnatx.com/images/lung114x114_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/activity114x114.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/activity114x114_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/side%20effect114x114.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/side%20effect114x114_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/pipeline%20small793x522.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/pipeline%20small793x522_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/facebook72x72.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/facebook72x72_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/twitter72x72.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/twitter72x72_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
