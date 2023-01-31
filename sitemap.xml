@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.pacdnatx.com/index.html</loc>
-    <lastmod>2022-10-26</lastmod>
+    <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -142,6 +142,30 @@
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/lab%20central242x75.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/bpla.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/bpla_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/spark.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/spark_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/bpla102x58.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/bpla102x58_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/spark160x58.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/spark160x58_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
