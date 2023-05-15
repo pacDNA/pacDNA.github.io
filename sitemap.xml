@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.pacdnatx.com/index.html</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -34,12 +34,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/side%20effect_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/pipeline%20small.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/pipeline%20small_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/facebook.png</image:loc>
@@ -120,12 +114,6 @@
       <image:loc>http://www.pacdnatx.com/images/side%20effect92x92_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.pacdnatx.com/images/pipeline%20small637x420.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/pipeline%20small637x420_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.pacdnatx.com/images/facebook58x58.png</image:loc>
     </image:image>
     <image:image>
@@ -166,6 +154,24 @@
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/spark160x58_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/lab%20central239x81.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/66ba6870-803e-4867-bec0-da2bb2589d47.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/66ba6870-803e-4867-bec0-da2bb2589d47_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/lab%20central235x73.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/66ba6870-803e-4867-bec0-da2bb2589d47184x64.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/66ba6870-803e-4867-bec0-da2bb2589d47184x64_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
