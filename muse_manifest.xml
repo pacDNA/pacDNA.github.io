@@ -1,18 +1,20 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.pacdnatx.com" resolutions="1x,2x" timestamp="1687303214053">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.pacdnatx.com" resolutions="1x,2x" timestamp="1692198493143">
   <folder name="css">
     <file name="site_global.css" crc="4013583993"/>
-    <file name="index.css" crc="3848187873" ref="index"/>
-    <file name="nomq_index.css" crc="318885433" ref="index"/>
+    <file name="index.css" crc="416489971" ref="index"/>
+    <file name="nomq_index.css" crc="159959275" ref="index"/>
+    <file name="fcoi.css" crc="136266325" ref="fcoi"/>
+    <file name="nomq_fcoi.css" crc="4098656134" ref="fcoi"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3939489907" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fcoi"/>
+    <file name="museutils.js" crc="3939489907" ref="index:fcoi"/>
+    <file name="whatinput.js" crc="86476730" ref="index:fcoi"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:fcoi"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:fcoi"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:fcoi"/>
+    <file name="require.js" crc="4177726516" ref="index:fcoi"/>
   </folder>
   <folder name="images">
     <file name="pexels-leonardo-rossatti-2646099 long.jpg" crc="388825580" ref="index">
@@ -24,7 +26,7 @@
     <file name="logo_2x.png" crc="215629616" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:fcoi"/>
     <file name="u927.png" crc="4000307974" ref="index"/>
     <file name="u927_2x.png" crc="501586956" ref="index"/>
     <file name="u927-r.png" crc="4000307974" ref="index"/>
@@ -65,17 +67,21 @@
     <file name="u6585-4_2x.png" crc="3822039929" ref="index"/>
     <file name="u832-4.png" crc="244954050" ref="index"/>
     <file name="u832-4_2x.png" crc="4125181863" ref="index"/>
-    <file name="facebook.png" crc="65170122" seo="true" ref="index">
+    <file name="facebook.png" crc="65170122" seo="true" ref="index:fcoi">
       <caption webpage="index" alt=""/>
+      <caption webpage="fcoi" alt=""/>
     </file>
-    <file name="facebook_2x.png" crc="65170122" seo="true" ref="index">
+    <file name="facebook_2x.png" crc="65170122" seo="true" ref="index:fcoi">
       <caption webpage="index" alt=""/>
+      <caption webpage="fcoi" alt=""/>
     </file>
-    <file name="twitter.png" crc="496562268" seo="true" ref="index">
+    <file name="twitter.png" crc="496562268" seo="true" ref="index:fcoi">
       <caption webpage="index" alt=""/>
+      <caption webpage="fcoi" alt=""/>
     </file>
-    <file name="twitter_2x.png" crc="157966522" seo="true" ref="index">
+    <file name="twitter_2x.png" crc="157966522" seo="true" ref="index:fcoi">
       <caption webpage="index" alt=""/>
+      <caption webpage="fcoi" alt=""/>
     </file>
     <file name="pexels-leonardo-rossatti-2646099 long-u349-fr.jpg" crc="3968353830" ref="index"/>
     <file name="logo71x41.png" crc="4159002013" seo="true" ref="index">
@@ -154,11 +160,13 @@
     <file name="sttr160x58.jpg" crc="3938838717" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="linkedin.png" crc="3788307392" seo="true" ref="index">
+    <file name="linkedin.png" crc="3788307392" seo="true" ref="index:fcoi">
       <caption webpage="index" alt=""/>
+      <caption webpage="fcoi" alt=""/>
     </file>
-    <file name="linkedin_2x.png" crc="3788307392" seo="true" ref="index">
+    <file name="linkedin_2x.png" crc="3788307392" seo="true" ref="index:fcoi">
       <caption webpage="index" alt=""/>
+      <caption webpage="fcoi" alt=""/>
     </file>
     <file name="antibody92x92.png" crc="184155740" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -298,6 +306,17 @@
     <file name="u6017-5_2x2.png" crc="213723994" ref="index"/>
     <file name="u643-52.png" crc="261608783" ref="index"/>
     <file name="u643-5_2x2.png" crc="64403657" ref="index"/>
+    <file name="u11099-4.png" crc="3890434225" ref="fcoi"/>
+    <file name="u11099-4_2x.png" crc="194997473" ref="fcoi"/>
+    <file name="linkedin-crop-u11172.png" crc="68279759" seo="true" ref="fcoi">
+      <caption webpage="fcoi" alt=""/>
+    </file>
+    <file name="linkedin-crop-u11172_2x.png" crc="3923289397" seo="true" ref="fcoi">
+      <caption webpage="fcoi" alt=""/>
+    </file>
+    <file name="u11099-42.png" crc="4279795482" ref="fcoi"/>
+    <file name="u11099-4_2x2.png" crc="3816023576" ref="fcoi"/>
   </folder>
-  <file name="index.html" crc="4218480744" seo="true" mt="1687303206390" redirect="true"/>
+  <file name="index.html" crc="3983592252" seo="true" mt="1692198430421" redirect="true"/>
+  <file name="fcoi.html" crc="293385030" seo="true" mt="1692198430774" redirect="true"/>
 </manifest>
