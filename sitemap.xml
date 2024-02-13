@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.pacdnatx.com/index.html</loc>
-    <lastmod>2023-09-18</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -36,31 +36,7 @@
       <image:loc>http://www.pacdnatx.com/images/side%20effect_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.pacdnatx.com/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/facebook_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/twitter.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/twitter_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/logo71x41.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/logo71x41_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/linkedin-crop-u7582.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/linkedin-crop-u7582_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/biomarin_logo_200_200_c1.jpg</image:loc>
+      <image:loc>http://www.pacdnatx.com/images/sttr.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/1664200848495-crop-u9359.jpg</image:loc>
@@ -69,31 +45,10 @@
       <image:loc>http://www.pacdnatx.com/images/1664200848495-crop-u9359_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.pacdnatx.com/images/sttr.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/biomarin_logo_200_200_c1117x117.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/1664200848495-crop-u93592.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/1664200848495-crop-u9359_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/sttr160x58.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/linkedin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/linkedin_2x.png</image:loc>
+      <image:loc>http://www.pacdnatx.com/images/biomarin_logo_200_200_c1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/lab%20central.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/lab%20central242x75.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/bpla.jpg</image:loc>
@@ -108,18 +63,6 @@
       <image:loc>http://www.pacdnatx.com/images/spark_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.pacdnatx.com/images/bpla102x58.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/bpla102x58_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/spark160x58.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/spark160x58_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.pacdnatx.com/images/lab%20central239x81.jpg</image:loc>
     </image:image>
     <image:image>
@@ -127,15 +70,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/66ba6870-803e-4867-bec0-da2bb2589d47_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/lab%20central235x73.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/66ba6870-803e-4867-bec0-da2bb2589d47184x64.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/66ba6870-803e-4867-bec0-da2bb2589d47184x64_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/kabiller-logo-424-500.jpg</image:loc>
@@ -148,6 +82,39 @@
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/podd.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/1707403505394-crop-u12096.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/1707403505394-crop-u12096_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/logo_nano.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/facebook_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/linkedin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/linkedin_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/twitter_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/logo71x41.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/logo71x41_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/antibody106x106.png</image:loc>
@@ -174,7 +141,43 @@
       <image:loc>http://www.pacdnatx.com/images/side%20effect106x106_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.pacdnatx.com/images/sttr160x58.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/1664200848495-crop-u93592.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/1664200848495-crop-u9359_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/biomarin_logo_200_200_c1117x117.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/lab%20central242x75.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/bpla102x58.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/bpla102x58_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/spark160x58.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/spark160x58_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.pacdnatx.com/images/icorps158x85.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/lab%20central235x73.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/66ba6870-803e-4867-bec0-da2bb2589d47184x64.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/66ba6870-803e-4867-bec0-da2bb2589d47184x64_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/kabiller-logo-424-500106x125.jpg</image:loc>
@@ -186,10 +189,22 @@
       <image:loc>http://www.pacdnatx.com/images/podd88x53.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.pacdnatx.com/images/170740350539488x44.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/170740350539488x44_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.pacdnatx.com/images/facebook66x66.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/facebook66x66_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/linkedin-crop-u7582.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/linkedin-crop-u7582_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/twitter66x66.png</image:loc>
@@ -200,7 +215,7 @@
   </url>
   <url>
     <loc>http://www.pacdnatx.com/fcoi.html</loc>
-    <lastmod>2023-09-18</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -210,16 +225,16 @@
       <image:loc>http://www.pacdnatx.com/images/facebook_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.pacdnatx.com/images/twitter.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.pacdnatx.com/images/twitter_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.pacdnatx.com/images/linkedin.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/linkedin_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pacdnatx.com/images/twitter_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.pacdnatx.com/images/facebook58x58.png</image:loc>
